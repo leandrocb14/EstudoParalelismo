@@ -1,0 +1,2 @@
+# EstudoParalelismo
+EstudoParalelismo
